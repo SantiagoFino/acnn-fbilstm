@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+torch
+transformers
+torchfm
+pydantic
+joblib
+uvicorn
+fastapi
+pydantic_settings
